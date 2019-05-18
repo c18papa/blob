@@ -1,1 +1,1 @@
-# blob
+# Repo used as a blob storage
